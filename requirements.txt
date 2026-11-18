@@ -1,0 +1,17 @@
+# Datahantering och beskrivande statistik
+pandas
+
+# Simuleringar och numeriska beräkningar
+numpy
+
+# Visualiseringar
+matplotlib
+
+# Statistiska diagram
+seaborn
+
+# Hypotesprövning och statistiska beräkningar
+scipy
+
+# Köra Python i Jupyter Notebook
+ipykernel
